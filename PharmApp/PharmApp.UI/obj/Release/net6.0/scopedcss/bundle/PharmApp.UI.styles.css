@@ -1,0 +1,196 @@
+/* _content/PharmApp.UI/Areas/Admin/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-2w1xrjsvc3] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-2w1xrjsvc3] {
+  color: #0077cc;
+}
+
+.btn-primary[b-2w1xrjsvc3] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-2w1xrjsvc3], .nav-pills .show > .nav-link[b-2w1xrjsvc3] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-2w1xrjsvc3] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-2w1xrjsvc3] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-2w1xrjsvc3] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-2w1xrjsvc3] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-2w1xrjsvc3] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/PharmApp.UI/Areas/User/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-9jmbevse97] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-9jmbevse97] {
+  color: #0077cc;
+}
+
+.btn-primary[b-9jmbevse97] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-9jmbevse97], .nav-pills .show > .nav-link[b-9jmbevse97] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-9jmbevse97] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-9jmbevse97] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-9jmbevse97] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-9jmbevse97] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-9jmbevse97] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/PharmApp.UI/Views/Shared/_FullSizeLayout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-j7pf4u76rj] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-j7pf4u76rj] {
+  color: #0077cc;
+}
+
+.btn-primary[b-j7pf4u76rj] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-j7pf4u76rj], .nav-pills .show > .nav-link[b-j7pf4u76rj] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-j7pf4u76rj] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-j7pf4u76rj] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-j7pf4u76rj] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-j7pf4u76rj] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-j7pf4u76rj] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/PharmApp.UI/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-sfz23ydb5r] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-sfz23ydb5r] {
+  color: #0077cc;
+}
+
+.btn-primary[b-sfz23ydb5r] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-sfz23ydb5r], .nav-pills .show > .nav-link[b-sfz23ydb5r] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-sfz23ydb5r] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-sfz23ydb5r] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-sfz23ydb5r] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-sfz23ydb5r] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-sfz23ydb5r] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
