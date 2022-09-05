@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_FullSizeLayout";
+
+}
+
+<div style="background:#1a5ca3;">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 text-white pt-5 pb-5">
+                <h1>PharmApp Online Ordering website</h1>
+                <p class="pb-4">
+                    The Medicines are deleivered fast at your door step!
+                </p>
+                <p>
+                    <a href="heading" class="btn btn-success">ORDER ONLINE NOW</a>
+                </p>
+
+            </div>
+            <div class="col-sm-4 pt-4">
+                <img src="~/images/pharm3.png" style="image:400px;width:80%;display:inline-block;float:right"/>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <h2>Medicines,Solid and Liquid Medicines</h2>
+    <div class="row mt-4">
+        @foreach(var item in Model)
+        {
+            <div class="col-sm-4 mb-3">
+                
+                    <div class="card" >
+  <img src="@item.ImageUrl" class="card-img-top" >
+  <div class="card-body">
+    <h5 class="card-title">@item.Name</h5>
+    <p class="card-text">@item.Description</p>
+    <p>
+        <button  class="btn btn-primary" onclick="AddToCart('@item.Id','@item.Name','@item.UnitPrice',1)">Add To Cart</button>
+    </p>
+  </div>
+</div>
+
+                </div>
+                
+        }
+    </div>
+
+</div>
+<div class="toast fade hide" data-autohide="false" id="toastCart">
+    <div class="toast-header">
+        <strong class="mr-auto text-primary">Notification</strong>
+        <button type="button" class="ml-2 mb-1 close" data-dismiss="toast">×</button>
+    </div>
+    <div class="toast-body"></div>
+</div>
