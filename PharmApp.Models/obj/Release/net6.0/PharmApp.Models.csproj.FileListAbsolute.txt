@@ -1,0 +1,12 @@
+D:\source\repos\PharmApp\PharmApp.Models\bin\Release\net6.0\PharmApp.Models.deps.json
+D:\source\repos\PharmApp\PharmApp.Models\bin\Release\net6.0\PharmApp.Models.dll
+D:\source\repos\PharmApp\PharmApp.Models\bin\Release\net6.0\PharmApp.Models.pdb
+D:\source\repos\PharmApp\PharmApp.Models\obj\Release\net6.0\PharmApp.Models.csproj.AssemblyReference.cache
+D:\source\repos\PharmApp\PharmApp.Models\obj\Release\net6.0\PharmApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\PharmApp\PharmApp.Models\obj\Release\net6.0\PharmApp.Models.AssemblyInfoInputs.cache
+D:\source\repos\PharmApp\PharmApp.Models\obj\Release\net6.0\PharmApp.Models.AssemblyInfo.cs
+D:\source\repos\PharmApp\PharmApp.Models\obj\Release\net6.0\PharmApp.Models.csproj.CoreCompileInputs.cache
+D:\source\repos\PharmApp\PharmApp.Models\obj\Release\net6.0\PharmApp.Models.dll
+D:\source\repos\PharmApp\PharmApp.Models\obj\Release\net6.0\refint\PharmApp.Models.dll
+D:\source\repos\PharmApp\PharmApp.Models\obj\Release\net6.0\PharmApp.Models.pdb
+D:\source\repos\PharmApp\PharmApp.Models\obj\Release\net6.0\ref\PharmApp.Models.dll
